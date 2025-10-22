@@ -1,6 +1,4 @@
 title: "eTalent"
 description: "Información util sobre eTalent"
-theme: just-the-docs
+theme: minima
 author: "Jaime Belloso"
-plugins:
-- jekyll-remote-theme
