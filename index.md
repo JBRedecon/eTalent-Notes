@@ -5,10 +5,5 @@ Aquí encontrarás información de utilidad de la aplicación como mejoras, corr
 
 ---
 
-## 🔖 Información sobre versiones
-
-- [Versión 4.2.0.3 - Octubre 2025](versiones/v4.2.0.3.md)
-
----
 
 📅 Última actualización: **Octubre de 2025**

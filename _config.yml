@@ -1,4 +1,19 @@
 title: "eTalent"
 description: "Información util sobre eTalent"
 theme: minima
-author: "Jaime Belloso"
+minima:
+  nav_pages:
+    - versiones.md
+  social_links:
+    - title: Facebook
+      icon: facebook
+      url: "https://www.facebook.com/IntegraBCGoficial"
+    - title: Twitter
+      icon: x-twitter
+      url: "https://x.com/integra_bcg"
+    - title: Canal de Youtube
+      icon: youtube
+      url: "https://www.youtube.com/c/INTEGRASAP/featured"
+author:
+  name: "Integra"
+  email: "atencionalcliente@integrasap.com"
