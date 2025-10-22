@@ -1,2 +1,4 @@
-title: "Bitácora de Mi Proyecto"
-theme: minima
+title: "eTalent"
+description: "Información util sobre eTalent"
+theme: bulma-clean-theme
+author: "Jaime Belloso"

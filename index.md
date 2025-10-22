@@ -1,11 +1,11 @@
-# 📘 Bitácora de versiones de eTalent
+# 📘 Notas de eTalent
 
-Bienvenido a la bitácora oficial de cambios del proyecto **eTalent**.  
-Aquí encontrarás el historial de versiones, mejoras, correcciones y notas técnicas.
+Bienvenido a este sitio informativo sobre **eTalent**.  
+Aquí encontrarás información de utilidad de la aplicación como mejoras, correcciones, notas técnicas, procedimientos, entre otros.
 
 ---
 
-## 🔖 Versiones
+## 🔖 Información sobre versiones
 
 - [Versión 4.2.0.3 - Octubre 2025](versiones/v4.2.0.3.md)
 
