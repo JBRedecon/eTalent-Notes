@@ -1,5 +1,3 @@
-# 📘 Notas de eTalent
-
 Bienvenido a este sitio informavo sobre **eTalent**.  
 Aquí encontrarás información de utilidad de la aplicación como mejoras, correcciones, notas técnicas, procedimientos, entre otros.
 
